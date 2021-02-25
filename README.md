@@ -7,11 +7,11 @@
 
 **Intereses**
 * Educacion:
-  * Desarrollo Web
-  * Desarrollo Móvil
+  * Desarrollo Web :rocket:
+  * Desarrollo Móvil :star:
 * Personales:
-  * Videojuegos
-  * Películas
+  * Videojuegos :sparkles:
+  * Películas :metal:
 
 **Contacto**
 * [Facebook](https://www.facebook.com/Genarindo/)
@@ -19,7 +19,7 @@
 * [LinkedIn](https://www.linkedin.com/in/genaro-gonzález-0613a9168)
 * genaro.gonzalez16@tectijuana.edu.mx
 
-> Github institucional, puede ver mi otra cuenta por [aquí](https://github.com/GenaroGonzalezS)
+> Esta es mi cuenta de Github institucional, pero puedes ver mi otra cuenta por [aquí](https://github.com/GenaroGonzalezS)
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508546.png" width="556" height="80" alt="Genaro González" /></a>
 <br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3775399639">Edit Image</a>
