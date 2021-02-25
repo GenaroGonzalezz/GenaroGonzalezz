@@ -7,11 +7,12 @@
 
 **Intereses**
 * Educacion:
-  * Desarrollo Web :rocket:
-  * Desarrollo Móvil :star:
+  * Aprendiendo Desarrollo Web :rocket:
+  * Aficionado en Desarrollo Móvil :star:
 * Personales:
   * Videojuegos :sparkles:
   * Películas :metal:
+  * Mi segundo nombre es Eugenio y me gusta el dinero :crab:
 
 **Contacto**
 * [Facebook](https://www.facebook.com/Genarindo/)
