@@ -12,7 +12,8 @@
 * Personales:
   * Videojuegos :sparkles:
   * Películas :metal:
-  * Mi segundo nombre es Eugenio y me gusta el dinero :crab:
+  * Mi segundo nombre es Eugenio y me gusta el dinero :crab: :money:
+  * Prefiero Android :android:
 
 **Contacto**
 * [Facebook](https://www.facebook.com/Genarindo/)
