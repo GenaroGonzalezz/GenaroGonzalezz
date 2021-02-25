@@ -13,7 +13,7 @@
   * Videojuegos :space_invader:
   * Películas :sparkles:
   * Mi segundo nombre es Eugenio y me gusta el dinero :crab: :moneybag:
-  * Prefiero Android c:
+  * Prefiero Android c: (Igual me gusta iOS)
 
 **Contacto**
 * [Facebook](https://www.facebook.com/Genarindo/)
