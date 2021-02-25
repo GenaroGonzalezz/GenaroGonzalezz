@@ -1,5 +1,7 @@
 ![](https://images.cooltext.com/5508546.png)
 
+# Genaro Eugenio González Sepúlveda - @GenaroGonzalezz
+
 ### Bienvenidos a mi Perfil 👋
 ###### Soy Estudiante del Instituto Tecnológico de Tijuana, cursando la carrera de Ingeniería en Sistemas Computacionales.
 
