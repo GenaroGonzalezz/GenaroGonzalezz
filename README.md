@@ -10,10 +10,10 @@
   * Aprendiendo Desarrollo Web :rocket:
   * Aficionado en Desarrollo Móvil :star:
 * Personales:
-  * Videojuegos :sparkles:
-  * Películas :metal:
-  * Mi segundo nombre es Eugenio y me gusta el dinero :crab: :cash:
-  * Prefiero Android 
+  * Videojuegos :space_invader:
+  * Películas :sparkles:
+  * Mi segundo nombre es Eugenio y me gusta el dinero :crab: :moneybag:
+  * Prefiero Android c:
 
 **Contacto**
 * [Facebook](https://www.facebook.com/Genarindo/)
@@ -22,6 +22,13 @@
 * genaro.gonzalez16@tectijuana.edu.mx
 
 > Esta es mi cuenta de Github institucional, pero puedes ver mi otra cuenta por [aquí](https://github.com/GenaroGonzalezS)
+
+Tecnologías | Habilidad 
+------------|------------
+* C#        | :star: :star: :star: :star:
+* Azure     | :star: :star:
+* React     | :star::star::star:
+* Flutter   | :star::star::star:
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508546.png" width="556" height="80" alt="Genaro González" /></a>
 <br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3775399639">Edit Image</a>
