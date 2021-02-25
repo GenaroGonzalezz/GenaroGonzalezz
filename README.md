@@ -25,10 +25,10 @@
 
 Tecnologías | Habilidad 
 ------------|------------
-* C#        | :star: :star: :star: :star:
-* Azure     | :star: :star:
-* React     | :star::star::star:
-* Flutter   | :star::star::star:
+ C#        | :star: :star: :star: :star:
+ Azure     | :star: :star:
+ React     | :star::star::star:
+ Flutter   | :star::star::star:
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508546.png" width="556" height="80" alt="Genaro González" /></a>
 <br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3775399639">Edit Image</a>
