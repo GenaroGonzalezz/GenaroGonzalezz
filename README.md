@@ -8,7 +8,7 @@
 **Intereses**
 * Educacion:
   * Aprendiendo Desarrollo Web :rocket:
-  * Aficionado en Desarrollo Móvil :star:
+  * Aficionado al Desarrollo Móvil :star:
 * Personales:
   * Videojuegos :space_invader:
   * Películas :sparkles:
