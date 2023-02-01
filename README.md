@@ -3,7 +3,7 @@
 # Genaro Eugenio González Sepúlveda - @GenaroGonzalezz
 
 ## Bienvenidos a mi Perfil 👋
-###### Soy Estudiante del Instituto Tecnológico de Tijuana, cursando la carrera de Ingeniería en Sistemas Computacionales.
+###### Soy Egresado del Instituto Tecnológico de Tijuana, de Ingeniería en Sistemas Computacionales.
 
 **Intereses**
 * Educacion:
@@ -19,8 +19,6 @@
 * [LinkedIn](https://www.linkedin.com/in/genaro-gonzález-0613a9168)
 * genaro.gonzalez16@tectijuana.edu.mx
 
-> Esta es mi cuenta de Github institucional, pero puedes ver mi
->  otra cuenta por [aquí](https://github.com/GenaroGonzalezS)
 
 Tecnologías y Fortalezas | Nivel 
 ------------|------------
