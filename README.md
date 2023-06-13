@@ -2,7 +2,7 @@
 
 # Genaro Eugenio González Sepúlveda - @GenaroGonzalezz
 
-## Bienvenidos a mi Perfil 👋
+## Hello there 👋
 ###### Soy Egresado del Instituto Tecnológico de Tijuana, de Ingeniería en Sistemas Computacionales.
 
 **Intereses**
