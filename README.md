@@ -41,7 +41,7 @@ Tecnologías | Nivel
  * Sensor de sonido
  * Sensor magnetico
  
-![](https://images.cooltext.com/5508546.png)
+
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508546.png" width="556" height="80" alt="Genaro Gonzalez 2023" /></a>
 <br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3775399639">Edit Image</a>
 
